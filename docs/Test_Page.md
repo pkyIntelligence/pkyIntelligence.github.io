@@ -1,0 +1,5 @@
+layout: page
+title: "Test Page"
+permalink: /test/
+
+This is where the content will go
