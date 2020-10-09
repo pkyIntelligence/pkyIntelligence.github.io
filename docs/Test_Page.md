@@ -1,5 +1,7 @@
+---
 layout: page
-title: "Test Page"
+title: Test
 permalink: /test/
+---
 
 This is where the content will go
